@@ -3,7 +3,7 @@
 */
 {
     /* Pygments theme to use */
-    "theme": "default",
+    "theme": "pastie",
 
     /* Full HTML page to generate? false = just a <div/> */
     "full": true,
